@@ -27095,7 +27095,7 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     </message>
     <message>
         <source>Create Cursors at Selected Line Ends</source>
-        <translation type="unfinished">光标置选定行末尾</translation>
+        <translation type="unfinished">光标至选定行末尾</translation>
     </message>
     <message>
         <source>Alt+Shift+I</source>
@@ -27103,11 +27103,11 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     </message>
     <message>
         <source>Add Next Occurrence to Selection</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">将下一个匹配项添加到所选内容</translation>
     </message>
     <message>
         <source>Ctrl+D</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ctrl+D</translation>
     </message>
     <message>
         <source>&amp;Duplicate Selection</source>
