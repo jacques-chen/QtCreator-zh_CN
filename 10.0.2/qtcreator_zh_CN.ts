@@ -27091,11 +27091,11 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     </message>
     <message>
         <source>Copy With Highlighting</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">高亮复制代码</translation>
     </message>
     <message>
         <source>Create Cursors at Selected Line Ends</source>
-        <translation>在选定行末尾创建光标</translation>
+        <translation type="unfinished">光标置选定行末尾</translation>
     </message>
     <message>
         <source>Alt+Shift+I</source>
