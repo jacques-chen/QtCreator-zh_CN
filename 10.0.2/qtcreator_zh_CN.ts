@@ -206,7 +206,7 @@
     </message>
     <message>
         <source>Only virtual functions can be marked &apos;final&apos;</source>
-        <translation>只有虚函数可被标记为 &quot;final&quot; </translation>
+        <translation>只有虚函数可被标记为 &quot;final&quot;</translation>
     </message>
     <message>
         <source>Expected a namespace-name</source>
@@ -218,7 +218,7 @@
     </message>
     <message>
         <source>Only virtual functions can be marked &apos;override&apos;</source>
-        <translation>只有虚函数可被标记为 &quot;override&quot; </translation>
+        <translation>只有虚函数可被标记为 &quot;override&quot;</translation>
     </message>
     <message>
         <source>Default Clang-Tidy and Clazy checks</source>
@@ -290,7 +290,7 @@
     </message>
     <message>
         <source>Cannot show preprocessed file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法显示预处理文件： %1</translation>
     </message>
     <message>
         <source>Falling back to built-in preprocessor: %1</source>
@@ -911,7 +911,7 @@ if they would align to the next line</source>
     </message>
     <message>
         <source>Show Preprocessed Source</source>
-        <translation type="unfinished"></translation>
+        <translation>显示预处理的源代码</translation>
     </message>
     <message>
         <source>Show Preprocessed Source in Next Split</source>
@@ -975,7 +975,7 @@ if they would align to the next line</source>
     </message>
     <message>
         <source>Follow Symbol Under Cursor to Type</source>
-        <translation type="unfinished"></translation>
+        <translation>追踪光标位置的类型</translation>
     </message>
     <message>
         <source>Ctrl+Shift+F2</source>
@@ -987,15 +987,15 @@ if they would align to the next line</source>
     </message>
     <message>
         <source>Meta+E, Ctrl+Shift+F2</source>
-        <translation type="unfinished"></translation>
+        <translation>Meta+E, Ctrl+Shift+F2</translation>
     </message>
     <message>
         <source>Ctrl+E, Ctrl+Shift+F2</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl+E, Ctrl+Shift+F2</translation>
     </message>
     <message>
         <source>Find References With Access Type</source>
-        <translation type="unfinished"></translation>
+        <translation>查找具有访问类型的引用</translation>
     </message>
     <message>
         <source>Open Type Hierarchy</source>
@@ -1504,7 +1504,7 @@ Flags: %3</source>
     </message>
     <message>
         <source>Reformat to &quot;%1&quot;</source>
-        <translation>重新格式化 &quot;%1&quot; </translation>
+        <translation>重新格式化 &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Reformat Pointers or References</source>
@@ -1568,7 +1568,7 @@ Flags: %3</source>
     </message>
     <message>
         <source>Add Class Member &quot;%1&quot;</source>
-        <translation type="unfinished"></translation>
+        <translation>添加类成员 &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Provide the type</source>
@@ -1592,7 +1592,7 @@ Flags: %3</source>
     </message>
     <message>
         <source>≥</source>
-        <translation type="unfinished"></translation>
+        <translation>≥</translation>
     </message>
     <message>
         <source>lines</source>
@@ -3710,7 +3710,7 @@ Do you want to retry?</source>
     </message>
     <message>
         <source>Debug</source>
-        <translation>调试版</translation>
+        <translation>调试</translation>
     </message>
     <message>
         <source>Error Loading Core File</source>
@@ -14602,17 +14602,17 @@ Local pulls are not applied to the master branch.</source>
     <message>
         <source>Release</source>
         <extracomment>The name of the release build configuration created by default for a qmake project.</extracomment>
-        <translation>发布版</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Debug</source>
         <extracomment>The name of the debug build configuration created by default for a qmake project.</extracomment>
-        <translation>调试版</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Profile</source>
         <extracomment>The name of the profile build configuration created by default for a qmake project.</extracomment>
-        <translation>分析版</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14929,7 +14929,7 @@ Local pulls are not applied to the master branch.</source>
     </message>
     <message>
         <source>Profile</source>
-        <translation>分析版</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Additional CMake &lt;a href=&quot;options&quot;&gt;options&lt;/a&gt;:</source>
@@ -16133,11 +16133,11 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message>
         <source>Clang-Tidy and Clazy...</source>
-        <translation>Clang-Tidy &amp; Clazy...</translation>
+        <translation>Clang-Tidy和Clazy...</translation>
     </message>
     <message>
         <source>Release</source>
-        <translation>发布版</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Run %1 in %2 Mode?</source>
@@ -16157,11 +16157,11 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message>
         <source>Cannot analyze current file: No files open.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法分析当前文件：无打开文件。</translation>
     </message>
     <message>
         <source>Cannot analyze current file: &quot;%1&quot; is not a known source file.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法分析当前文件：&quot;%1&quot; 不是一个可分析的源代码类型。</translation>
     </message>
     <message>
         <source>Select YAML Files with Diagnostics</source>
@@ -16213,8 +16213,8 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message numerus="yes">
         <source>Failed to analyze %n file(s).</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n 文件分析失败。</numerusform>
         </translation>
     </message>
     <message>
@@ -16223,8 +16223,8 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message numerus="yes">
         <source>Analyzing... %1 of %n file(s) processed.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>分析......已处理 %n 个文件中的 %1。</numerusform>
         </translation>
     </message>
     <message>
@@ -16233,8 +16233,8 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message numerus="yes">
         <source>Finished processing %n file(s).</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n 个文件处理完成。</numerusform>
         </translation>
     </message>
     <message>
@@ -16279,7 +16279,7 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message>
         <source>Analyzing &quot;%1&quot; [%2].</source>
-        <translation> &quot;%1&quot; 分析中[%2]。</translation>
+        <translation>&quot;%1&quot; 分析中[%2]。</translation>
     </message>
     <message>
         <source>Failed to start runner &quot;%1&quot;.</source>
@@ -16291,8 +16291,8 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message numerus="yes">
         <source>Error: Failed to analyze %n files.</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>错误： 分析 %n 文件失败。</numerusform>
         </translation>
     </message>
     <message>
@@ -16301,11 +16301,11 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message>
         <source>%1 finished: Processed %2 files successfully, %3 failed.</source>
-        <translation> &quot;%1 &quot;完成：成功处理了%2个文件，失败了%3个。</translation>
+        <translation>&quot;%1 &quot;完成：成功处理了%2个文件，失败了%3个。</translation>
     </message>
     <message>
         <source>An error occurred with the %1 process.</source>
-        <translation> &quot;%1&quot; 进程出错。</translation>
+        <translation>&quot;%1&quot; 进程出错。</translation>
     </message>
     <message>
         <source>%1 crashed.</source>
@@ -16313,7 +16313,7 @@ Make sure that CMAKE_BUILD_TYPE variable matches the &quot;Build type&quot; fiel
     </message>
     <message>
         <source>%1 finished with exit code: %2.</source>
-        <translation> &quot;%1&quot; 已完成，退出代码：%2。</translation>
+        <translation>&quot;%1&quot; 已完成，退出代码：%2。</translation>
     </message>
     <message>
         <source>Command line: %1
@@ -17742,11 +17742,11 @@ However, using the relaxed and extended rules means also that no highlighting/co
     </message>
     <message>
         <source>Debug</source>
-        <translation>调试版</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Release</source>
-        <translation>发布版</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>&lt;custom&gt;</source>
@@ -27091,11 +27091,11 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     </message>
     <message>
         <source>Copy With Highlighting</source>
-        <translation type="unfinished">高亮复制代码</translation>
+        <translation>高亮复制代码</translation>
     </message>
     <message>
         <source>Create Cursors at Selected Line Ends</source>
-        <translation type="unfinished">光标至选定行末尾</translation>
+        <translation>光标至选定行末尾</translation>
     </message>
     <message>
         <source>Alt+Shift+I</source>
@@ -27103,11 +27103,11 @@ In addition, Shift+Enter inserts an escape character at the cursor position and 
     </message>
     <message>
         <source>Add Next Occurrence to Selection</source>
-        <translation type="unfinished">将下一个匹配项添加到所选内容</translation>
+        <translation>将下一个匹配项添加到所选内容</translation>
     </message>
     <message>
         <source>Ctrl+D</source>
-        <translation type="unfinished">Ctrl+D</translation>
+        <translation>Ctrl+D</translation>
     </message>
     <message>
         <source>&amp;Duplicate Selection</source>
@@ -28374,7 +28374,7 @@ Partial names can be used if they are unambiguous.</source>
     </message>
     <message>
         <source>Delete Branch</source>
-        <translation>删除分支 </translation>
+        <translation>删除分支</translation>
     </message>
     <message>
         <source>Remote Branches</source>
@@ -28462,11 +28462,11 @@ Partial names can be used if they are unambiguous.</source>
     </message>
     <message>
         <source>Git Show &quot;%1&quot;</source>
-        <translation>Git Show</translation>
+        <translation>Git Show &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Git Blame &quot;%1&quot;</source>
-        <translation>Git Blame</translation>
+        <translation>Git Blame &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Cannot obtain log of &quot;%1&quot;: %2</source>
@@ -29102,15 +29102,15 @@ You can choose between stashing the changes or discarding them.</source>
     </message>
     <message>
         <source>Track remote branch &quot;%1&quot;</source>
-        <translation>追踪远程分支 &quot;%1&quot; </translation>
+        <translation>追踪远程分支 &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Track local branch &quot;%1&quot;</source>
-        <translation>追踪本地分支 &quot;%1&quot; </translation>
+        <translation>追踪本地分支 &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Checkout branch &quot;%1&quot;</source>
-        <translation>检出分支 &quot;%1&quot; </translation>
+        <translation>检出分支 &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Local Changes Found. Choose Action:</source>
@@ -29118,7 +29118,7 @@ You can choose between stashing the changes or discarding them.</source>
     </message>
     <message>
         <source>Move Local Changes to &quot;%1&quot;</source>
-        <translation>移动本地更改到 &quot;%1&quot; </translation>
+        <translation>移动本地更改到 &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Discard Local Changes</source>
@@ -29126,7 +29126,7 @@ You can choose between stashing the changes or discarding them.</source>
     </message>
     <message>
         <source>Pop Stash of &quot;%1&quot;</source>
-        <translation>取出储藏 &quot;%1&quot; </translation>
+        <translation>取出储藏 &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Create Branch Stash for &quot;%1&quot;</source>
@@ -29627,11 +29627,11 @@ Unchecked - The change is not a draft.</source>
     </message>
     <message>
         <source>Git Reflog &quot;%1&quot;</source>
-        <translation>Git引用日志 &quot;%1&quot; </translation>
+        <translation>Git引用日志 &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Generate %1 archive</source>
-        <translation>生成归档 &quot;%1&quot; </translation>
+        <translation>生成归档 &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Overwrite?</source>
@@ -29764,8 +29764,8 @@ Commit now?</source>
     </message>
     <message numerus="yes">
         <source>Cannot commit %n files</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>无法提交 %n 个文件</numerusform>
         </translation>
     </message>
     <message>
@@ -30227,11 +30227,11 @@ instead of its installation directory when run outside git bash.</source>
     </message>
     <message>
         <source>currently set to &quot;%1&quot;</source>
-        <translation>当前设置 &quot;%1&quot; </translation>
+        <translation>当前设置 &quot;%1&quot;</translation>
     </message>
     <message>
         <source>The binary &quot;%1&quot; could not be located in the path &quot;%2&quot;</source>
-        <translation>路径 &quot;%2&quot; 中找不到程序 &quot;%1&quot; </translation>
+        <translation>路径 &quot;%2&quot; 中找不到程序 &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Refreshing Commit Data</source>
@@ -30239,7 +30239,7 @@ instead of its installation directory when run outside git bash.</source>
     </message>
     <message>
         <source>Show HEAD</source>
-        <translation type="unfinished"></translation>
+        <translation>显示 HEAD</translation>
     </message>
     <message>
         <source>Sign off</source>
@@ -30335,7 +30335,7 @@ instead of its installation directory when run outside git bash.</source>
     </message>
     <message>
         <source>Submodule commit %1</source>
-        <translation>子模块提交 &quot;%1&quot; </translation>
+        <translation>子模块提交 &quot;%1&quot;</translation>
     </message>
     <message>
         <source>Symbolic link -&gt; %1</source>
@@ -33779,11 +33779,11 @@ Error:
     </message>
     <message>
         <source>Debug</source>
-        <translation>调试版</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Release</source>
-        <translation>发布版</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Nimble Build</source>
@@ -36120,13 +36120,13 @@ Are you sure?</source>
         <source>Debug</source>
         <comment>Shadow build directory suffix</comment>
         <extracomment>Non-ASCII characters in directory suffix may cause build issues.</extracomment>
-        <translation>调试版</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Release</source>
         <comment>Shadow build directory suffix</comment>
         <extracomment>Non-ASCII characters in directory suffix may cause build issues.</extracomment>
-        <translation>发布版</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Qbs Build</source>
@@ -36721,11 +36721,11 @@ The affected files are:
     <message>
         <source>Debug</source>
         <translatorcomment>better to leave it as it is</translatorcomment>
-        <translation>调试版</translation>
+        <translation>Debug</translation>
     </message>
     <message>
         <source>Release</source>
-        <translation>发布版</translation>
+        <translation>Release</translation>
     </message>
     <message>
         <source>No Qt version set in kit.</source>
@@ -37059,19 +37059,19 @@ Adds the library and include paths to the .pro file.</source>
         <source>Release</source>
         <comment>Shadow build directory suffix</comment>
         <extracomment>Non-ASCII characters in directory suffix may cause build issues.</extracomment>
-        <translation>发布版</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Debug</source>
         <comment>Shadow build directory suffix</comment>
         <extracomment>Non-ASCII characters in directory suffix may cause build issues.</extracomment>
-        <translation>调试版</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Profile</source>
         <comment>Shadow build directory suffix</comment>
         <extracomment>Non-ASCII characters in directory suffix may cause build issues.</extracomment>
-        <translation>分析版</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Qt mkspec</source>
@@ -38024,7 +38024,7 @@ Qt Design Studio requires a .qmlproject based project to open the .ui.qml file.<
     <name>QmlDesigner::DebugViewWidget</name>
     <message>
         <source>Debug</source>
-        <translation>调试版</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Model Log</source>
@@ -38182,7 +38182,7 @@ Qt Design Studio requires a .qmlproject based project to open the .ui.qml file.<
     <name>QmlDesigner::EventListDelegate</name>
     <message>
         <source>Release</source>
-        <translation>发布版</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Connect</source>
@@ -39792,7 +39792,7 @@ Locked components cannot be modified or selected.</source>
     <name>QmlDesigner::SignalListDelegate</name>
     <message>
         <source>Release</source>
-        <translation>发布版</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Connect</source>
@@ -45689,7 +45689,7 @@ Failed to open file &quot;%1&quot;</source>
     </message>
     <message>
         <source>Debug</source>
-        <translation>调试版</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Analyze</source>
@@ -47075,8 +47075,8 @@ should a repository require SSH-authentication (see documentation on SSH and the
     </message>
     <message numerus="yes">
         <source>&lt;p&gt;Writing good commit messages&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Avoid very short commit messages.&lt;/li&gt;&lt;li&gt;Consider the first line as subject (like in email) and keep it shorter than %n characters.&lt;/li&gt;&lt;li&gt;After an empty second line, a longer description can be added.&lt;/li&gt;&lt;li&gt;Describe why the change was done, not how it was done.&lt;/li&gt;&lt;/ul&gt;</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>&lt;p&gt;编写良好的提交信息。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;避免提交的信息过于简短。&lt;/li&gt;&lt;li&gt;将第一行视为主题（就像电子邮件一样），并将其保持在 %n 个字符以上。&lt;/li&gt;&lt;li&gt;第二行作为空行之后，可以添加较长的描述。&lt;/li&gt;&lt;li&gt;描述为什么要修改，而不是如何修改。&lt;/li&gt;&lt;/ul&gt;</numerusform>
         </translation>
     </message>
     <message>
@@ -47590,27 +47590,27 @@ What do you want to do?</source>
     </message>
     <message>
         <source>Enterprise Edition</source>
-        <translation type="unfinished"></translation>
+        <translation>企业版</translation>
     </message>
     <message>
         <source>Professional Edition</source>
-        <translation type="unfinished"></translation>
+        <translation>专业版</translation>
     </message>
     <message>
         <source>Before we let you move on to your wonderful designs, help us make Qt Design Studio even better by letting us know how you&apos;re using it. To do this, we would like to turn on automatic collection of pseudonymized Analytics and Crash Report Data.</source>
-        <translation type="unfinished"></translation>
+        <translation>在我们让您继续您的精彩设计之前，请让我们知道您是如何使用Qt Design Studio的，从而帮助我们使Qt Design Studio变得更好。为此，我们希望开启自动收集匿名分析和崩溃数据的功能。</translation>
     </message>
     <message>
         <source>Turn Off</source>
-        <translation type="unfinished"></translation>
+        <translation>关</translation>
     </message>
     <message>
         <source>Turn On</source>
-        <translation type="unfinished"></translation>
+        <translation>开</translation>
     </message>
     <message>
         <source>Learn More</source>
-        <translation type="unfinished"></translation>
+        <translation>更多</translation>
     </message>
     <message>
         <source>Qt Design Studio</source>
@@ -47629,7 +47629,7 @@ What do you want to do?</source>
     </message>
     <message>
         <source>File &quot;%1&quot; is not a Qt Quick Designer plugin.</source>
-        <translation> &quot;%1&quot; 不是Qt Quick设计器插件。</translation>
+        <translation>&quot;%1&quot; 不是Qt Quick设计器插件。</translation>
     </message>
 </context>
 <context>
@@ -47640,7 +47640,7 @@ What do you want to do?</source>
     </message>
     <message>
         <source>Start Download</source>
-        <translation type="unfinished"></translation>
+        <translation>开始下载</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -47648,7 +47648,7 @@ What do you want to do?</source>
     </message>
     <message>
         <source>Folder </source>
-        <translation type="unfinished"></translation>
+        <translation>文件夹 </translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -47664,11 +47664,11 @@ What do you want to do?</source>
     </message>
     <message>
         <source>Finish</source>
-        <translation type="unfinished"></translation>
+        <translation>完成</translation>
     </message>
     <message>
         <source>Download failed</source>
-        <translation type="unfinished"></translation>
+        <translation>下载失败</translation>
     </message>
     <message>
         <source>Recent Projects</source>
@@ -48274,7 +48274,7 @@ What do you want to do?</source>
     <name>qtc-askpass</name>
     <message>
         <source>Password required.</source>
-        <translation type="unfinished"></translation>
+        <translation>需要密码。</translation>
     </message>
 </context>
 <context>
